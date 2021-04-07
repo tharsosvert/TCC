@@ -19,4 +19,7 @@ https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0
 https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
 
 - GitHub Dicas
-- https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories
+https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories
+
+URLS
+https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0
