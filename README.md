@@ -6,3 +6,7 @@ git push -u origin main
 - [psi-games.git](https://github.com/cp2-dc-info-projeto-final/psi-games.git)
 - [SSH](git@github.com:cp2-dc-info-projeto-final/psi-games.git)
 - [github CLI](gh repo clone cp2-dc-info-projeto-final/psi-games)
+
+
+- [psi-games.git](git@github.com:cp2-dc-info-projeto-final/psi-games.git)
+- [psi-games.git](gh repo clone cp2-dc-info-projeto-final/psi-games)
